@@ -3,7 +3,7 @@
 
 
 
-**Fecha**
+### **Fecha**
 
 La fecha de creación de Pinterest fué en 2010
 
