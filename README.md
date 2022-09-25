@@ -17,3 +17,4 @@ Después de varias iteraciones y varios productos, Ben Silbermann, Evan Sharp y 
 
 Es un sitio que permite a los usuarios recopilar y compartir imágenes y enlaces en tableros de anuncios digitales interactivos.
 
+![Foto](https://github.com/RobertoNobleMaestro/SMX2-M8UF1A1-Pinterest-2010-TemaExpuesto-RobertoNobleMaestro/blob/main/1_ZHs11avrYorv3OqKGrJ3wg.png)
