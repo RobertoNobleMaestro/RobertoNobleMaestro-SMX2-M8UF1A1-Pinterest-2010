@@ -19,7 +19,7 @@ Es un sitio que permite a los usuarios recopilar y compartir imágenes y enlaces
 
 ![Foto](https://github.com/RobertoNobleMaestro/SMX2-M8UF1A1-Pinterest-2010-TemaExpuesto-RobertoNobleMaestro/blob/main/1_ZHs11avrYorv3OqKGrJ3wg.png)
 
-### **Video explicativo**
 
-![https://github.com/RobertoNobleMaestro/SMX2-M8UF1A1-Pinterest-2010-TemaExpuesto-RobertoNobleMaestro/blob/main/unnamed.png](https://www.youtube.com/watch?v=u2SVMCQhzdE)
+
+###![**Video explicativo**](https://www.youtube.com/watch?v=u2SVMCQhzdE)
 
