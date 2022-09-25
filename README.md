@@ -21,5 +21,5 @@ Es un sitio que permite a los usuarios recopilar y compartir imágenes y enlaces
 
 
 
-### ![**Video explicativo**](https://www.youtube.com/watch?v=u2SVMCQhzdE)
+### ![**Video explicativo**] (https://www.youtube.com/watch?v=u2SVMCQhzdE)
 
