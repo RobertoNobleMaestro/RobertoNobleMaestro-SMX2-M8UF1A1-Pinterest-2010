@@ -21,4 +21,5 @@ Es un sitio que permite a los usuarios recopilar y compartir imágenes y enlaces
 
 ### **Video explicativo**
 
-[Video](https://www.youtube.com/watch?v=u2SVMCQhzdE)
+![Video](https://github.com/RobertoNobleMaestro/SMX2-M8UF1A1-Pinterest-2010-TemaExpuesto-RobertoNobleMaestro/blob/main/unnamed.png(https://www.youtube.com/watch?v=u2SVMCQhzdE)
+
