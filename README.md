@@ -7,7 +7,7 @@
 
 La fecha de creación de Pinterest fué en 2010 por Evan Sharp y Ben Silbermann.
 
-![Foto](
+![Foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-Pinterest-2010/blob/main/imagen_2022-09-30_111725968.png)
 
 
 ### **Definición**
